@@ -1,0 +1,7 @@
+The number of entered objects was 5
+No.			ID			Color			Area
+1			Circle		red			3.141593
+2			Square		yellow			1.000000
+3			Ellipse		blue			37.699112
+4			Triangle		orange			12.000000
+5			Rectangle		violet			63.000000

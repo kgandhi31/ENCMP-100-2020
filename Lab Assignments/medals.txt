@@ -1,0 +1,8 @@
+14  7  5 Canada
+ 2  3  6 France
+10 13  7 Germany
+ 0  0  1 Great Britain
+ 1  1  3 Italy
+ 0  3  2 Japan
+ 3  5  7 Russia
+ 9 15 13 United States
