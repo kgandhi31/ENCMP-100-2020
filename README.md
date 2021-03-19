@@ -1,2 +1,2 @@
 # MATLAB-Assignments
-The MATLAB assignments that I completed during my ENCMP 100 course
+My MATLAB solutions to the lab assignments offered in the ENCMP 100 MATLAB course.
